@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bsignbkc/express-sample-project:staging
+          tags: nguyentiendat123/learn-cicd:learn-firsr-cicd
 
 
   pull-and-up:
